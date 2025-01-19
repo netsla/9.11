@@ -1,0 +1,35 @@
+body {
+    background-color: blueviolet;
+ }
+
+ #surnameOutput, #firstNameOutput, #patronymNameOutput {
+    text-transform: uppercase;
+    font-weight: bold;
+ }
+ 
+ h3, h4 {
+     color:black;
+ }
+ 
+ .container {
+     margin-top: 200px;
+     margin-bottom: 0px;
+     margin-left: 250px;
+     margin-right: 0px;
+ }
+ 
+ .card-header {
+ background-color:rgb(253, 73, 2);
+ }
+ 
+ .m-0 {
+     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     color:rgb(255, 255, 255);
+     text-transform: uppercase;
+     font-weight: bold;
+ }
+ 
+ .card-body {
+     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     background-color:rgb(247, 192, 252);
+ }
